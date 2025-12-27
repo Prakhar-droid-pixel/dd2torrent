@@ -1,4 +1,4 @@
-name: Create torrent
+name: NFS
 on:
   push:
     branches:
@@ -6,8 +6,8 @@ on:
       
 env:
   name: "Android Studio and SDK Tools"
-  comment: "Android Studio for Windows"
-  url: "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe"
+  comment: "nfs"
+  url: "https://download192.uploadhaven.com/1/application/zip/qTgrnQR67DamvYndGwVK3XxwyeVeMN2HxnPLH3kC.zip?key=oHcdiMz-7S_iy02pQnIt7Q&expire=1767080310&filename=NeedforSpeed-MostWanted.zip"
   file_name: "android-studio-ide-201.7042882-windows.exe"
   piece_size: 19 # Check the README.md for recommended piece size
       
